@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ygrem
 - 👀 I’m interested in BigData,BI,Power BI,Relational Database,NoSQL Database and DevOps
-- 🌱 I’m currently learning  Build serverless, full stack applications in Azure
+- 🌱 I’m currently learning  Azure DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ygremb@gmail.com
 
