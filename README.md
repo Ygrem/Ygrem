@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ygrem
+- 👋 Hi, I’m Ygrem
 - 👀 I’m interested in BigData,BI,Relational Database,NoSQL Database and DevOps
 - 🌱 I’m currently learning  Azure DevOps
 - 💞️ I’m looking to collaborate on ...
